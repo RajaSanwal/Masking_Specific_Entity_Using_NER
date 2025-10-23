@@ -21,7 +21,7 @@ This project demonstrates how to use Named Entity Recognition (NER) to identify 
 <img width="1301" height="62" alt="image" src="https://github.com/user-attachments/assets/9d3e8d5f-3f7c-46a0-9cac-e96c41e4b569" />
 
 # Masked 
-<img width="1408" height="26" alt="image" src="https://github.com/user-attachments/assets/30e81fc7-d1ff-4cfd-995d-336ca28cde07" />
+<img width="1448" height="66" alt="image" src="https://github.com/user-attachments/assets/30e81fc7-d1ff-4cfd-995d-336ca28cde07" />
 
 
 
