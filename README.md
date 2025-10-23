@@ -12,3 +12,9 @@ This project demonstrates how to use Named Entity Recognition (NER) to identify 
 * **torch (PyTorch)** — Deep learning framework used for building and training the NER model.
 * **scikit-learn (sklearn)** — For splitting the dataset into training, validation, and testing sets.
 
+### 🤖 Machine Learning Models Used
+
+* **BERT (dslim/bert-base-NER)** — Pre-trained transformer model fine-tuned for the **Named Entity Recognition (NER)** token classification task.
+* **spaCy `en_core_web_sm`** — Lightweight NLP model used for **initial entity extraction** and preprocessing.
+
+
