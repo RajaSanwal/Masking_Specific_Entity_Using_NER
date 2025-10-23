@@ -17,4 +17,7 @@ This project demonstrates how to use Named Entity Recognition (NER) to identify 
 * **BERT (dslim/bert-base-NER)** — Pre-trained transformer model fine-tuned for the **Named Entity Recognition (NER)** token classification task.
 * **spaCy `en_core_web_sm`** — Lightweight NLP model used for **initial entity extraction** and preprocessing.
 
+<img width="683" height="72" alt="image" src="https://github.com/user-attachments/assets/e42a4df4-3420-4866-b50d-d9e0c1a77382" />
+
+
 
